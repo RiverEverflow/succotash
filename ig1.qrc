@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Screenshot 2024-05-04 104437.png</file>
+        <file>Recording 2024-05-04 101905.mp4</file>
+        <file>fishing.mp3</file>
+        <file>Screenshot 2024-05-05 232546.png</file>
+        <file>Screenshot 2024-05-09 171104.png</file>
+        <file>Screenshot 2024-05-09 173739.png</file>
+        <file>Screenshot 2024-05-09 173757.png</file>
+        <file>Screenshot 2024-05-09 173814.png</file>
+        <file>Abigail.png</file>
+        <file>Fishingbar.png</file>
+        <file>Fishingicon.png</file>
+        <file>shake.png</file>
+    </qresource>
+</RCC>
